@@ -38,5 +38,4 @@ const TableHeader = () => {
     </table>
   )
 }
-
 export default Table
